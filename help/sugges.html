@@ -1,0 +1,101 @@
+<!-- Copyright © <2017>  <DUFF-NORTON INC>  ALL RIGHTS RESERVED.
+For any information about this program, please contact duffnorton@cmworks.com 
+or mail to 9415 Pioneer Ave, Charlotte, NC 28273
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.-->
+
+<html>
+
+<head>
+<title>Jack Selector - FAQs</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+<style>
+#backblue {
+    color: #737373;
+    padding: 5px 0;
+    text-align: left;
+    background-color: #e6f2ff;
+    margin-top:5px;
+    font-size: 1.275em; 
+}
+#backwhite {
+    color: #737373;
+    padding: 5px 0;
+    text-align: left;
+    background-color: white;
+    margin-top:5px;
+    font-size: 1.275em; 
+}
+#blackbackblue {
+    color: black;
+    width: 100%;
+    background-color: white;
+    font-size: 1.275em;
+    font-weight: bold;
+}
+#title {
+    color: #002db3; 
+    text-align: left;
+}
+
+#listblue {
+    font-size: 14px;
+    text-align: left;
+    background-color: #e6f2ff;
+    margin-top:5px;
+}
+#listwhite {
+    font-size: 14px;
+    text-align: left;
+    background-color: white;
+    margin-top:5px;
+}
+th, td {
+    padding: 5px;
+    text-align: left;  
+    font-size: 15px;  
+}
+</style>
+</head>
+
+
+<body>
+<div>
+    <h2 id="title">What can I do to reduce the size of the actuator result?</h2>
+    <p id="listblue">&nbsp; 1. &nbsp; Reduce the Travel Rate (speed)</p>
+    <p id="listwhite">&nbsp; 2. &nbsp; Reduce the Duty</p>
+    <p id="listblue">&nbsp; 3. &nbsp; For High Duty running, Switch to Ball Screw</p>
+    <p id="listwhite">&nbsp; 4. &nbsp; For Long Column Length required, Guide the load</p>
+    <p id="listblue"> &nbsp; 5. &nbsp; Re-Design for a Tension Load to eliminate the Column Strength</p>
+</div>
+
+<div> 
+ 
+  <h2 id="title">Quick Reference</h2>
+  <table>
+    <tr>
+     <th id="backwhite"><b>Speed <font color="red">&uarr;</font><font color="green">&darr;</font></th>
+     <td  rowspan="3"  id="backblue" valign="middle" align="center">&rArr;</td> &nbsp; 
+     <td  rowspan="3"  id="backwhite" valign="middle"><b>Actuator Size  <font color="red">&uarr;</font><font color="green">&darr;</font></b></td>
+    </tr> 
+    <tr>
+     <th  id="backwhite"><b>Duty <font color="red">&uarr;</font><font color="green">&darr;</font></th>
+    </tr>
+    <tr>
+     <th  id="backwhite"><b>Lifting Screw Diameter <font color="red">&uarr;</font><font color="green">&darr;</font></th>
+    </tr>
+    <tr>
+     <th  id="backblue"><b>Guided Load <font color="red">&#x2713;</font></th>
+     <td  rowspan="2" id="backwhite" valign="middle" align="center">&rArr;</td> &nbsp; 
+     <td  rowspan="2" id="backblue" valign="middle"><b>Actuator Size  <font color="red">&darr;</font></b></td>
+    </tr>
+    <tr> 
+     <th  id="backblue"><b>Tension Load Only <font color="red">&#10003;</font></th>
+    </tr>
+   </table>
+</div>
+</body></html>
