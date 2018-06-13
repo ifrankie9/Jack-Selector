@@ -1,0 +1,4 @@
+Code for Duff-Norton's Jack Selector 2017 Duff-Norton Inc.
+
+
+This code developed by Frankie Wang Duff-Norton Inc.

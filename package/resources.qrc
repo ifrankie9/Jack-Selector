@@ -1,0 +1,59 @@
+<!DOCTYPE RCC><RCC version="1.0">
+
+    <qresource prefix="/">
+        <file alias="filePreview.png">images/filePreview.png</file>
+        <file alias="fileprint.png">images/fileprint.png</file>
+        <file alias="filenew.png">images/filenew.png</file>
+        <file alias="fileopen.png">images/fileopen.png</file>
+        <file alias="filesave.png">images/filesave.png</file>
+        <file alias="filesaveas.png">images/filesaveas.png</file>
+        <file alias="fileprint.png">images/fileprint.png</file>
+        <file alias="filequit.png">images/filequit.png</file>
+        <file alias="fileRedo.png">images/fileRedo.png</file>
+        <file alias="fileUndo.png">images/fileUndo.png</file>
+        <file alias="Inverted Rotating.png">images/Inverted Rotating.png</file>
+        <file alias="Inverted.png">images/Inverted.png</file>
+        <file alias="Upright Rotating.png">images/Upright Rotating.png</file>
+        <file alias="Upright.png">images/Upright.png</file>
+        <file alias="Double Clevis.png">images/Double Clevis.png</file>
+        <file alias="Clevis End.png">images/Clevis End.png</file>
+        <file alias="Top Plate.png">images/Top Plate.png</file>
+        <file alias="Threaded End.png">images/Threaded End.png</file>
+        <file alias="Tension.png">images/Tension.png</file>
+        <file alias="Compression.png">images/Compression.png</file>
+        <file alias="Tension and Compression.png">images/Tension and Compression.png</file>
+        <file alias="Pinned Ends.png">images/Pinned Ends.png</file>
+        <file alias="One end fixed; one end free.png">images/One end fixed; one end free.png</file>
+        <file alias="One end fixed; one end guided.png">images/One end fixed; one end guided.png</file>
+        <file alias="literature.png">images/literature.png</file>
+        <file alias="model.png">images/model.png</file>
+        <file alias="duff.png">images/duff.png</file>
+        <file alias="logo_36.png">images/logo_36.png</file>
+        <file alias="logo_361.png">images/logo_361.png</file>
+        <file alias="question.png">images/question.png</file>
+        <file alias="send.png">images/send.png</file>
+        <file alias="email.png">images/email.png</file>
+        <file alias="back.png">images/back.png</file>
+        <file alias="home.png">images/home.png</file>
+        <file alias="icon.png">images/icon.png</file>
+        <file alias="duff.ico">images/duff.ico</file>
+        <file>editmenu.html</file>
+        <file>filemenu.html</file>
+        <file>index.html</file>
+        <file>image1.html</file>
+        <file>image2.html</file>
+        <file>image3.html</file>
+        <file>image4.html</file>
+        <file>steps.html</file>
+        <file>faqs.html</file>
+        <file alias="cap11.png">images/cap11.png</file>
+        <file alias="cap111.png">images/cap111.png</file>
+        <file alias="cap22.png">images/cap22.png</file>
+        <file alias="cap222.png">images/cap222.png</file>
+        <file alias="cap33.png">images/cap33.png</file>
+        <file alias="cap333.png">images/cap333.png</file>
+        <file alias="cap44.png">images/cap44.png</file>
+        <file alias="cap444.png">images/cap444.png</file>
+        <file>selectionresult.db</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,16 @@
+Program Languages: Python, PyQt4, QSqlite
+ 
+Compile App: Pyinstaller
+Compile Detailed Setup .spec file: duffjack.spec
+ 
+Data & Images Folder: /Help, 
+                      /Images, 
+                      resources.qrc(qrc_resources.py),
+                      Selectionresult.db
+ 
+Main Script: duffjack.py, 
+             helpform.py, 
+             sendquote.py
+             (qrc_resources.py)
+ 
+Version.txt: for .exe file’s version explanation
